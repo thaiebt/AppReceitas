@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "app_receita.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
